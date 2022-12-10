@@ -5,6 +5,7 @@ I created a weather app using HTML, CSS, and JavaScript. I used the Fetch API fe
 
 ## Screenshots
 
+![weather](https://user-images.githubusercontent.com/97656404/206858457-1b5bb0c4-cdf2-412b-80f9-dae81f4b707c.png)
 
 
 ## Tech Stack
